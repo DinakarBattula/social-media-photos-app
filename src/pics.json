@@ -1,0 +1,52 @@
+{
+    "pics": [
+        {
+            "id": 0,
+            "category": "Flowers",
+            "url": "https://cdn.pixabay.com/photo/2018/02/08/22/27/flower-3140492_960_720.jpg",
+            "likes": 8,
+            "comments": [
+                "Amazing Pic !",
+                "So nice...",
+                "Beautiful",
+                "Nice !",
+                "Keep up the great work"
+            ]
+        },
+        {
+            "id": 1,
+            "category": "Birds",
+            "url": "https://cdn.pixabay.com/photo/2018/02/08/22/27/flower-3140492_960_7201.jpg",
+            "likes": 32,
+            "comments": [
+                "Amazing Pic !",
+                "So nice...",
+                "Beautiful"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "Flowers",
+            "url": "https://cdn.pixabay.com/photo/2018/02/08/22/27/flower-3140492_960_720.jpg",
+            "likes": 8,
+            "comments": [
+                "Amazing Pic !",
+                "So nice...",
+                "Beautiful",
+                "Nice !",
+                "Keep up the great work"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "Birds",
+            "url": "https://cdn.pixabay.com/photo/2018/02/08/22/27/flower-3140492_960_7201.jpg",
+            "likes": 32,
+            "comments": [
+                "Amazing Pic !",
+                "So nice...",
+                "Beautiful"
+            ]
+        }
+    ]
+}
